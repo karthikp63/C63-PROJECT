@@ -1,0 +1,12 @@
+{
+  "name": "C63",
+  "displayName": "C63",
+  "expo": {
+    "name": "C63",
+    "slug": "C63",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
